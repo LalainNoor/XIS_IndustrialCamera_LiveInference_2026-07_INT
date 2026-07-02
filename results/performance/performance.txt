@@ -1,0 +1,21 @@
+Industrial Camera Live Inference
+========================================
+
+Video Source        : input/sample_video.mp4
+Source Type         : Video Simulation
+
+Resolution          : 1024 x 576
+Frame Rate          : 29.99 FPS
+Pixel Format        : BGR
+
+----------------------------------------
+
+Total Frames        : 584
+Processing Time     : 136.05 sec
+
+Average FPS         : 4.29
+Average Latency     : 226.77 ms
+Throughput          : 4.29 FPS
+
+Execution Provider  : CPUExecutionProvider
+Model               : ConvNeXt V2 (ONNX)
